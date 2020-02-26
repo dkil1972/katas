@@ -1,0 +1,14 @@
+{
+    "name": "checkout",
+    "version": "1.0.0",
+    "description": "",
+    "main": "checkout.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "ramda": "0.27.0"
+    },
+    "author": "Dermot Kilroy",
+    "license": "ISC"
+}
